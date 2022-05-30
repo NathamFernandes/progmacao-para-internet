@@ -1,2 +1,2 @@
 # progmacao-para-internet
-Repositório para a discplina de PPI.
+Repositório para a disciplina de PPI.
